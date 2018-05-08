@@ -1,1 +1,1 @@
-Something smells fishy
+Something smells fishy new text on master branch
